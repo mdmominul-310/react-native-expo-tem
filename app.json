@@ -12,6 +12,7 @@
       "supportsTablet": true
     },
     "android": {
+      "backgroundColor": "#ffffff",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -37,5 +38,6 @@
     "experiments": {
       "typedRoutes": true
     }
+ 
   }
 }
